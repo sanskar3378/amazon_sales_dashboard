@@ -28,3 +28,8 @@ Key Performance Indicators (KPIs): The dashboard will focus on critical sales me
 
 # Conclusion
 This Amazon Sales Dashboard will be a valuable tool for any business selling on the Amazon platform, providing a centralized location to monitor performance, identify growth opportunities, and make data-driven decisions for long-term success.
+
+# ScreehShots
+
+![Screenshot 1]([https://github.com/sanskar3378/amazon_sales_dashboard/blob/main/ScreenShot1.png])
+
