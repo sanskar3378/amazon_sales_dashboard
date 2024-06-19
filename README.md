@@ -33,3 +33,7 @@ This Amazon Sales Dashboard will be a valuable tool for any business selling on 
 
 ![Screenshot 1](https://github.com/sanskar3378/amazon_sales_dashboard/blob/main/ScreenShot1.png)
 
+![Screenshot 1](https://github.com/sanskar3378/amazon_sales_dashboard/blob/main/ScreenShot2.png)
+
+![Screenshot 1](https://github.com/sanskar3378/amazon_sales_dashboard/blob/main/ScreenShot3.png)
+
